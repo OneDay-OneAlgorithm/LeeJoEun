@@ -19,5 +19,5 @@
   - <span style="background-color:#FFE6E6"> 의사코드 (Pseudo-code) </span>
     : 직접 실행할 수 있는 프로그래밍 언어는 아니지만, 거의 실제 프로그램에 가깝게 계산과정을 표현할 수 있는 언어
 
-[ 목차 ]
-1. Sequential Search (순차 검색)
+## [ 목차 ]  
+[1. Sequential Search (순차 검색)]()
